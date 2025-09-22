@@ -3,3 +3,5 @@ Bleach
 One Piece
 Naruto
 Hunter x Hunter
+Death Note
+Tokyo Ghoul
